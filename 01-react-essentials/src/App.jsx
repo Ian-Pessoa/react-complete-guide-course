@@ -21,6 +21,9 @@ function App() {
           <h2>Examples</h2>
           <menu>
             <TabButton label="Components" />
+            <TabButton label="JSX" />
+            <TabButton label="Props" />
+            <TabButton label="State" />
           </menu>
         </section>
       </main>
